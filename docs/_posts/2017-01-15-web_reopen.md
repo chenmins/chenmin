@@ -5,4 +5,10 @@ title: Web is reopen in github
 
 
 # Introduction
-For the past couple weeks  
+## for home site
+
+[http://www.chenmin.org](http://www.chenmin.org)
+
+## for opensource site
+
+[http://open.chenmin.org](http://open.chenmin.org)
