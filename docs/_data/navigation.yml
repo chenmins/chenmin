@@ -1,8 +1,11 @@
 - title: about
   url: /me
+  
+- title: OpenSource SoftWare
+  url: http://open.chenmin.org
 
 - title: github
-  url: https://github.com/getmicah
+  url: https://github.com/chenmins
 
-- title: twitter
-  url: https://twitter.com/getmicah
+- title: weibo
+  url: http://weibo.com/chensoft
